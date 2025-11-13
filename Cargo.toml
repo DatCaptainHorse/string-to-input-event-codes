@@ -1,0 +1,12 @@
+[package]
+name = "string-to-input-event-codes"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "String to input event codes conversion utility"
+repository = "https://github.com/DatCaptainHorse/string-to-input-event-codes"
+readme = "README.md"
+keywords = ["linux", "input"]
+
+[dependencies]
+lazy_static = "1.5"
